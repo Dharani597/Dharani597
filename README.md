@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharani597&label=Profile%20views&color=0e75b6&style=flat" alt="dharani597" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharani597" alt="dharani597" /></a> </p>
+
 - 🔭 I’m currently working on **western union**
 
 - 🌱 I’m currently learning **AWS DevOps**
@@ -22,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharani597&show_icons=true&locale=en&layout=compact" alt="dharani597" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharani597&show_icons=true&locale=en" alt="dharani597" /></p>
-
